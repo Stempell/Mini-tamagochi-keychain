@@ -16,4 +16,4 @@ I also made a cad model. The big battery was swapped for 3 litle LiPo cells conn
 | 2 | Buttons | $2.73  | [AliExpress](https://pl.aliexpress.com/item/1005012637969465) |
 | 3 | SSD1315 OLED display | $2.38  | [AliExpress](https://pl.aliexpress.com/item/4001028369082) |
 
-\* Price may depend on the selected variant or pack size.
+Total cost - $11.39
