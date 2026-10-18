@@ -9,4 +9,11 @@ I also made a cad model. The big battery was swapped for 3 litle LiPo cells conn
 <img width="1073" height="649" alt="Zrzut ekranu 2026-10-17 013126" src="https://github.com/user-attachments/assets/860e7aee-a9ec-43fd-9bba-bccd70460661" />
 <img width="1112" height="652" alt="Zrzut ekranu 2026-10-17 013247" src="https://github.com/user-attachments/assets/ff73e704-1cb8-4b4c-a8af-271954a33619" />
 
+## BOM
+| # | Component | Price in $) | Link |
+|---:|---|---:|---|
+| 1 | ESP32-C3 | $6.28  | [AliExpress](https://pl.aliexpress.com/item/1005013335912855) |
+| 2 | Buttons | $2.73  | [AliExpress](https://pl.aliexpress.com/item/1005012637969465) |
+| 3 | SSD1315 OLED display | $2.38  | [AliExpress](https://pl.aliexpress.com/item/4001028369082) |
 
+Total cost - $11.39
