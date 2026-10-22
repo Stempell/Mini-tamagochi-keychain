@@ -8,6 +8,8 @@ Here's an initial drawing of it:
 <img width="754" height="512" alt="Zrzut ekranu 2026-10-22 194450" src="https://github.com/user-attachments/assets/7f4ff7b4-50b8-4df3-9c52-2c355cff48d7" />
 <img width="801" height="503" alt="Zrzut ekranu 2026-10-22 194512" src="https://github.com/user-attachments/assets/cf554e23-08a1-4ae0-b460-d0f4f81848c4" />
 
+Link to onshape document - https://cad.onshape.com/documents/d71ea2f3e6966dbd3803b51b/w/8012156687731007183e445b/e/885404f0703f98faa2ecff5c?renderMode=0&uiState=6ada6cba8733704cbf182410
+
 (more cad screenshots can be found in the "PHOTOS" folder)
 
 ## Firmware
