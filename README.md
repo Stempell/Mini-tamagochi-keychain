@@ -6,15 +6,18 @@ Here's an initial drawing of it:
 
 I also made a cad model. The big battery was swapped for 3 litle LiPo cells connected pararelly.
 
-<img width="1073" height="649" alt="Zrzut ekranu 2026-10-17 013126" src="https://github.com/user-attachments/assets/860e7aee-a9ec-43fd-9bba-bccd70460661" />
-<img width="1112" height="652" alt="Zrzut ekranu 2026-10-17 013247" src="https://github.com/user-attachments/assets/ff73e704-1cb8-4b4c-a8af-271954a33619" />
+<img width="754" height="512" alt="Zrzut ekranu 2026-10-22 194450" src="https://github.com/user-attachments/assets/7f4ff7b4-50b8-4df3-9c52-2c355cff48d7" />
+<img width="801" height="503" alt="Zrzut ekranu 2026-10-22 194512" src="https://github.com/user-attachments/assets/cf554e23-08a1-4ae0-b460-d0f4f81848c4" />
+(more cad screenshots can be found in the "PHOTOS" folder)
 
+##Firmware
 The three buttons function as:
 Button 1 - feed pet
 Button 2 - wake up
 BUtton 3 - play
-
-The four 40mAh cells connecter pararelly should give us 120mAh in total of battery capacity. It should supply the device with sufficient power for some time as it'll be running in deep sleep mode mosr of the time and only wake up when the power button (the middle one) is pressed.
+The device sits mostly in deep sleep, to save battery, until the power button is pressed. upon startup, the oled screen displays the pet's face, it's hunger, energy and happines stat and animations (passive or while interacting).The user can then replenish hunger or happines by clicking the respective buttons (playing will be less effective if energy or hunger is low). Energy can be replenished by charging the device via usb.
+Beware, that if hunger runs out, the pet dies and can be only respawned by manually resetting the device's flash.
+Battery capacity is Battery 200mAh. should last a while thanks to the tamagochi being in deep sleep most of the time. I'll share the exact data once im able to test it.
 
 ## BOM
 | # | Component | Price in $) | Link |
