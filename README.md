@@ -7,15 +7,23 @@ Here's an initial drawing of it:
 
 <img width="754" height="512" alt="Zrzut ekranu 2026-10-22 194450" src="https://github.com/user-attachments/assets/7f4ff7b4-50b8-4df3-9c52-2c355cff48d7" />
 <img width="801" height="503" alt="Zrzut ekranu 2026-10-22 194512" src="https://github.com/user-attachments/assets/cf554e23-08a1-4ae0-b460-d0f4f81848c4" />
+
 (more cad screenshots can be found in the "PHOTOS" folder)
 
-##Firmware
+## Firmware
+
 The three buttons function as:
+
 Button 1 - feed pet
+
 Button 2 - wake up
-BUtton 3 - play
+
+Button 3 - play
+
 The device sits mostly in deep sleep, to save battery, until the power button is pressed. upon startup, the oled screen displays the pet's face, it's hunger, energy and happines stat and animations (passive or while interacting).The user can then replenish hunger or happines by clicking the respective buttons (playing will be less effective if energy or hunger is low). Energy can be replenished by charging the device via usb.
+
 Beware, that if hunger runs out, the pet dies and can be only respawned by manually resetting the device's flash.
+
 Battery capacity is Battery 200mAh. should last a while thanks to the tamagochi being in deep sleep most of the time. I'll share the exact data once im able to test it.
 
 ## BOM
