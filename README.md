@@ -4,7 +4,6 @@ Here's an initial drawing of it:
 
 <img width="943" height="376" alt="tamagochi" src="https://github.com/user-attachments/assets/0f14ef24-b92e-4414-a56e-e1df522437b0" />
 
-I also made a cad model. The big battery was swapped for 3 litle LiPo cells connected pararelly.
 
 <img width="754" height="512" alt="Zrzut ekranu 2026-10-22 194450" src="https://github.com/user-attachments/assets/7f4ff7b4-50b8-4df3-9c52-2c355cff48d7" />
 <img width="801" height="503" alt="Zrzut ekranu 2026-10-22 194512" src="https://github.com/user-attachments/assets/cf554e23-08a1-4ae0-b460-d0f4f81848c4" />
